@@ -31,6 +31,8 @@
         <rawvoice:rating>TV-G</rawvoice:rating>
         <rawvoice:location>China</rawvoice:location>
         <rawvoice:frequency>Monthly</rawvoice:frequency>
+        <itunes:category text="Careers"/>
+        <itunes:category text="Higher Education"/>
         <itunes:category text="Technology"/>
         <pubDate>Fri, 01 Jan 2016 06:00:00 PDT</pubDate>
         <item>
