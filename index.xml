@@ -16,16 +16,16 @@
         <lastBuildDate>Fri, 01 Jan 2016 06:00:00 PDT</lastBuildDate>
         <itunes:author>Simon &amp; Mon</itunes:author>
         <itunes:summary>
-            The full length description for your podcast
+            生活的迷思和反思 科研上头的呓语 非典型码农和计算机博士的闲聊 和其他还没有想到的
         </itunes:summary>
-        <itunes:subtitle>Short sentence about the podcast</itunes:subtitle>
+        <itunes:subtitle>Wandering to the moon</itunes:subtitle>
         <itunes:owner>
             <itunes:name>Simon</itunes:name>
             <itunes:email>wttmoon@outlook.com</itunes:email>
         </itunes:owner>
         <itunes:explicit>No</itunes:explicit>
         <itunes:keywords>
-            comma,separated,key,words
+            计算机,博士,程序员
         </itunes:keywords>
         <itunes:image href="http://www.example.com/image3000x3000.png"/>
         <rawvoice:rating>TV-G</rawvoice:rating>
