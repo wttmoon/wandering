@@ -1,18 +1,18 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" version="2.0">
     <channel>
         <title>Wandering to the moon</title>
-        <link>http://wttmoon.github.io/wandering/index.html</link>
+        <link>https://wttmoon.github.io/wandering/index.html</link>
         <image>
-            <url>http://wttmoon.github.io/wandering/icon.png</url>
+            <url>https://wttmoon.github.io/wandering/icon.png</url>
             <title>Wandering to the moon</title>
-            <link>http://wttmoon.github.io/wandering/index.html</link>
+            <link>https://wttmoon.github.io/wandering/index.html</link>
         </image>
         <description>
             生活的迷思和反思 科研上头的呓语 非典型码农和计算机博士的闲聊 和其他还没有想到的
         </description>
         <language>zh-cn</language>
         <copyright>WTTM copyright 2019</copyright>
-        <atom:link href="http://wttmoon.github.io/wandering/index.xml" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://wttmoon.github.io/wandering/index.xml" rel="self" type="application/rss+xml"/>
         <lastBuildDate>Sun, 22 Sept 2019 10:00:00 CST</lastBuildDate>
         <itunes:author>Simon &amp; Mon</itunes:author>
         <itunes:summary>
@@ -27,7 +27,7 @@
         <itunes:keywords>
             计算机,博士,程序员
         </itunes:keywords>
-        <itunes:image href="http://wttmoon.github.io/wandering/icon.png"/>
+        <itunes:image href="https://wttmoon.github.io/wandering/icon.png"/>
         <rawvoice:rating>TV-G</rawvoice:rating>
         <rawvoice:location>China</rawvoice:location>
         <rawvoice:frequency>Monthly</rawvoice:frequency>
@@ -54,7 +54,7 @@
               读博前期和早中晚期的避坑提醒
               （计算机）博士的科研与非科研的日常
             </itunes:summary>
-            <itunes:image href="http://wttmoon.github.io/wandering/icon.png"/>
+            <itunes:image href="https://wttmoon.github.io/wandering/icon.png"/>
             <itunes:keywords>
                 博士,计算机,程序员
             </itunes:keywords>
