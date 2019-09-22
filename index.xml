@@ -3,7 +3,7 @@
         <title>Wandering to the moon</title>
         <link>http://wttmoon.github.io/wandering/index.html</link>
         <image>
-            <url>http://www.example.com/image3000x3000.png</url>
+            <url>http://wttmoon.github.io/wandering/icon.png</url>
             <title>Wandering to the moon</title>
             <link>http://wttmoon.github.io/wandering/index.html</link>
         </image>
@@ -13,7 +13,7 @@
         <language>zh-cn</language>
         <copyright>WTTM copyright 2019</copyright>
         <atom:link href="http://wttmoon.github.io/wandering/index.xml" rel="self" type="application/rss+xml"/>
-        <lastBuildDate>Fri, 01 Jan 2016 06:00:00 PDT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Sept 2019 10:00:00 CST</lastBuildDate>
         <itunes:author>Simon &amp; Mon</itunes:author>
         <itunes:summary>
             生活的迷思和反思 科研上头的呓语 非典型码农和计算机博士的闲聊 和其他还没有想到的
@@ -27,7 +27,7 @@
         <itunes:keywords>
             计算机,博士,程序员
         </itunes:keywords>
-        <itunes:image href="http://www.example.com/image3000x3000.png"/>
+        <itunes:image href="http://wttmoon.github.io/wandering/icon.png"/>
         <rawvoice:rating>TV-G</rawvoice:rating>
         <rawvoice:location>China</rawvoice:location>
         <rawvoice:frequency>Monthly</rawvoice:frequency>
@@ -38,23 +38,23 @@
         <item>
             <title>Wandering 第一期 不出意外不要读博 </title>
             <link>
-                http://podcast.example.com/episode2.mp4
+                https://pdct.blob.core.windows.net/public/session_1_mixdown.mp3
             </link>
-            <pubDate>Sat, 02 Jan 2016 16:00:00 PDT</pubDate>
+            <pubDate>Sun, 22 Sept 2019 10:00:00 CST</pubDate>
             <description>
               读博前期和早中晚期的避坑提醒
               （计算机）博士的科研与非科研的日常
             </description>
-            <enclosure url="http://podcasts.example.com/episode.mp4" length="36715125" type="audio/mpeg"/>
+            <enclosure url="https://pdct.blob.core.windows.net/public/session_1_mixdown.mp3" length="9749408" type="audio/mpeg"/>
             <guid>
-                http://podcast.example.com/episode2.mp4
+                https://pdct.blob.core.windows.net/public/session_1_mixdown.mp3
             </guid>
             <itunes:duration>19:07</itunes:duration>
             <itunes:summary>
               读博前期和早中晚期的避坑提醒
               （计算机）博士的科研与非科研的日常
             </itunes:summary>
-            <itunes:image href="http://www.example.com/image3000x3000.png"/>
+            <itunes:image href="http://wttmoon.github.io/wandering/icon.png"/>
             <itunes:keywords>
                 博士,计算机,程序员
             </itunes:keywords>
