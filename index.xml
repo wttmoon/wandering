@@ -13,7 +13,7 @@
         <language>zh-cn</language>
         <copyright>WTTM copyright 2019</copyright>
         <atom:link href="https://wttmoon.github.io/wandering/index.xml" rel="self" type="application/rss+xml"/>
-        <lastBuildDate>Sun, 22 Sept 2019 10:00:00 CST</lastBuildDate>
+        <lastBuildDate>Sun, 22 Sept 2019 10:00:00 +0800</lastBuildDate>
         <itunes:author>Simon &amp; Mon</itunes:author>
         <itunes:summary>
             生活的迷思和反思 科研上头的呓语 非典型码农和计算机博士的闲聊 和其他还没有想到的
@@ -34,13 +34,13 @@
         <itunes:category text="Careers"/>
         <itunes:category text="Higher Education"/>
         <itunes:category text="Technology"/>
-        <pubDate>Fri, 01 Jan 2016 06:00:00 PDT</pubDate>
+        <pubDate>Mon, 14 Oct 2019 21:00:00 +0800</pubDate>
         <item>
             <title>Wandering 第一期 不出意外不要读博 </title>
             <link>
                 https://pdct.blob.core.windows.net/public/session_1_mixdown.mp3
             </link>
-            <pubDate>Sun, 22 Sept 2019 10:00:00 CST</pubDate>
+            <pubDate>Sun, 22 Sept 2019 10:00:00 +0800</pubDate>
             <description>
               读博前期和早中晚期的避坑提醒
               （计算机）博士的科研与非科研的日常
@@ -49,7 +49,7 @@
             <guid>
                 https://pdct.blob.core.windows.net/public/session_1_mixdown.mp3
             </guid>
-            <itunes:duration>19:07</itunes:duration>
+            <itunes:duration>54:02</itunes:duration>
             <itunes:summary>
               读博前期和早中晚期的避坑提醒
               （计算机）博士的科研与非科研的日常
@@ -57,6 +57,29 @@
             <itunes:image href="https://wttmoon.github.io/wandering/icon.png"/>
             <itunes:keywords>
                 博士,计算机,程序员
+            </itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>Wandering 第二期 人工智能的胡扯 </title>
+            <link>
+                https://pdct.blob.core.windows.net/public/session_2_mixdown.mp3
+            </link>
+            <pubDate>Mon, 14 Oct 2019 21:00:00 +0800</pubDate>
+            <description>
+              这集比较乱 从人工智能能不能实现聊到了什么是人工智能 然后在思维是不是一个高级技能上盘桓很久
+            </description>
+            <enclosure url="https://pdct.blob.core.windows.net/public/session_2_mixdown.mp3" length="17230224" type="audio/mpeg"/>
+            <guid>
+                https://pdct.blob.core.windows.net/public/session_1_mixdown.mp3
+            </guid>
+            <itunes:duration>47:48</itunes:duration>
+            <itunes:summary>
+              这集比较乱 从人工智能能不能实现聊到了什么是人工智能 然后在思维是不是一个高级技能上盘桓很久
+            </itunes:summary>
+            <itunes:image href="https://wttmoon.github.io/wandering/icon.png"/>
+            <itunes:keywords>
+              人工智能
             </itunes:keywords>
             <itunes:explicit>no</itunes:explicit>
         </item>
