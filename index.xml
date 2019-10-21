@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" 
-    xmlns:atom="http://www.w3.org/2005/Atom" 
-    xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" version="2.0">
+    xmlns:atom="http://www.w3.org/2005/Atom"  version="2.0">
     <channel>
         <title>Wandering to the moon</title>
         <link>https://wttmoon.github.io/wandering/index.html</link>
@@ -16,7 +15,7 @@
         <language>zh-cn</language>
         <copyright>WTTM copyright 2019</copyright>
         <atom:link href="https://wttmoon.github.io/wandering/index.xml" rel="self" type="application/rss+xml"/>
-        <lastBuildDate>Sun, 22 Sept 2019 10:00:00 +0800</lastBuildDate>
+        <lastBuildDate>Sun, 22 Sep 2019 10:00:00 +0800</lastBuildDate>
         <itunes:author>Simon &amp; Mon</itunes:author>
         <itunes:summary>
             生活的迷思和反思 科研上头的呓语 非典型码农和计算机博士的闲聊 和其他还没有想到的
@@ -34,8 +33,12 @@
         <rawvoice:rating>TV-G</rawvoice:rating>
         <rawvoice:location>China</rawvoice:location>
         <rawvoice:frequency>Monthly</rawvoice:frequency>
-        <itunes:category text="Careers"/>
-        <itunes:category text="Higher Education"/>
+        <itunes:category text="Business">
+            <itunes:category text="Careers"/>
+        </itunes:category>
+        <itunes:category text="Education">
+            <itunes:category text="Higher Education"/>
+        </itunes:category>
         <itunes:category text="Technology"/>
         <pubDate>Mon, 14 Oct 2019 21:00:00 +0800</pubDate>
         <item>
@@ -43,7 +46,7 @@
             <link>
                 https://pdct.blob.core.windows.net/public/session_1_mixdown.mp3
             </link>
-            <pubDate>Sun, 22 Sept 2019 10:00:00 +0800</pubDate>
+            <pubDate>Sun, 22 Sep 2019 10:00:00 +0800</pubDate>
             <description>
               读博前期和早中晚期的避坑提醒
               （计算机）博士的科研与非科研的日常
