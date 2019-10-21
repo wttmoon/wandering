@@ -30,9 +30,6 @@
             计算机,博士,程序员
         </itunes:keywords>
         <itunes:image href="https://wttmoon.github.io/wandering/icon.png"/>
-        <rawvoice:rating>TV-G</rawvoice:rating>
-        <rawvoice:location>China</rawvoice:location>
-        <rawvoice:frequency>Monthly</rawvoice:frequency>
         <itunes:category text="Business">
             <itunes:category text="Careers"/>
         </itunes:category>
