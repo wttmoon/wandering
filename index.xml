@@ -1,4 +1,7 @@
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" version="2.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" 
+    xmlns:atom="http://www.w3.org/2005/Atom" 
+    xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" version="2.0">
     <channel>
         <title>Wandering to the moon</title>
         <link>https://wttmoon.github.io/wandering/index.html</link>
@@ -71,7 +74,7 @@
             </description>
             <enclosure url="https://pdct.blob.core.windows.net/public/session_2_mixdown.mp3" length="17230224" type="audio/mpeg"/>
             <guid>
-                https://pdct.blob.core.windows.net/public/session_1_mixdown.mp3
+                https://pdct.blob.core.windows.net/public/session_2_mixdown.mp3
             </guid>
             <itunes:duration>47:48</itunes:duration>
             <itunes:summary>
